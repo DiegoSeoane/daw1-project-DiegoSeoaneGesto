@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<programs>
+	<program name="firefox" licence="GPL" licence2="MPU"/> <!-- o nome de licence estaba repetido-->
+	<program name="LibreOffice"></program> <!--Habia que poñer o name no primeiro tag-->
+	<program name="Inkscape" licence="GPL"/> <!-- faltaban as ""-->
+	<program name="Chrome"></program>
+	<program name="Edge"/> <!-- faltaba añadir o name e as comillas-->
+	<producers>	<!-- habia que metelo no root-->
+		<producer>Microsoft</producer> <!-- faltaba un / para cerrar-->
+	</producers>		
+</programs>
+	<!-- faltame un por comentar pero sobreescribin e non recordo cal era-->

@@ -1,0 +1,2 @@
+Exercice 7 : o json pesa 112 bytes menos.
+
